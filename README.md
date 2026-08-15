@@ -3,7 +3,7 @@
 A clean, modern, and fully responsive personal portfolio website for **Manish Waghmare**, a Java Backend Developer. Built with semantic HTML5, CSS3 (with custom variables for theming), and vanilla JavaScript. 
 
 ## 🌐 Live Preview
-*Live preview URL will be added here once deployed (e.g., https://manishwork-byte.github.io/portfolio)*
+*https://manishwork-byte.github.io/portfolio*
 
 ## ✨ Features
 - **Modern UI/UX:** Clean, light-themed aesthetic with a focus on typography and whitespace.
