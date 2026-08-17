@@ -1,4 +1,4 @@
-# Manish Waghmare - Portfolio
+# Manish Waghmare - Portfolio website 
 
 A clean, modern, and fully responsive personal portfolio website for **Manish Waghmare**, a Java Backend Developer. Built with semantic HTML5, CSS3 (with custom variables for theming), and vanilla JavaScript. 
 
@@ -62,4 +62,6 @@ Because it is a pure HTML/CSS/JS site, you can also simply open `index.html` dir
 - **JavaScript (Vanilla):** DOM manipulation, `IntersectionObserver`, `requestAnimationFrame`
 
 ---
-*Built from scratch with clean, maintainable code.*
+*Built from scratch with clean, maintainable code.
+![Uploading add_git.png…]()
+*
