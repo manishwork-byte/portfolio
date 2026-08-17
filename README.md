@@ -62,6 +62,5 @@ Because it is a pure HTML/CSS/JS site, you can also simply open `index.html` dir
 - **JavaScript (Vanilla):** DOM manipulation, `IntersectionObserver`, `requestAnimationFrame`
 
 ---
-*Built from scratch with clean, maintainable code.
-![Uploading add_git.png…]()
-*
+*Built from scratch with clean, maintainable code.*
+<img width="1920" height="1032" alt="add_git" src="https://github.com/user-attachments/assets/d50a470c-190c-443d-9b7f-e3b9330bb888" />
