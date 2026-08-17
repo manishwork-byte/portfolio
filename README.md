@@ -63,4 +63,5 @@ Because it is a pure HTML/CSS/JS site, you can also simply open `index.html` dir
 
 ---
 *Built from scratch with clean, maintainable code.*
-<img width="1920" height="1032" alt="add_git" src="https://github.com/user-attachments/assets/d50a470c-190c-443d-9b7f-e3b9330bb888" />
+<img width="1902" height="952" alt="add_git" src="https://github.com/user-attachments/assets/68aef580-ad71-416b-97a1-eb1746bac076" />
+
